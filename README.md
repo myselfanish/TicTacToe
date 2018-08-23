@@ -1,8 +1,8 @@
 # TicTacToe
-*It is a simple python code with GUI for game called 'Tic Tac Toe'
+**It is a simple python code with GUI for game called 'Tic Tac Toe'
 The objective of this game is to place the mark in such a way that three of your marks should be in a same row or column or in any diagonal of a 3 * 3 grid.
  
-INSTRUCTIONS :
+#INSTRUCTIONS :
 
 **This is a code based game. 
 **For better results,Please run the code in JetBrains Pycharm IDE for python.
